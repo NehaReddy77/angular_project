@@ -1,0 +1,10 @@
+[
+  {
+    "name": "api/heroes",
+    "textfile": "assets/textfile.txt"
+  },
+  {
+    "name":"neha",
+    "blah":"blah"
+  }
+]
